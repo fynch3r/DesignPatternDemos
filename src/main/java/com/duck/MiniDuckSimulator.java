@@ -14,7 +14,7 @@ import com.duck.impl.FlyRocketPowered;
 
 public class MiniDuckSimulator {
     public static void main(String[] args) {
-        //Duck mallardDuck = new MallardDuck();
+        //Duck mallardDuck = new MallardDuck();git pull
         //mallardDuck.performQuack();
         //mallardDuck.performFly();
 
