@@ -1,6 +1,6 @@
 # DesignPatternDemos
 
-Java设计模式联系
+Java设计模式练习
 
 ## 7大原则
 ```shell
@@ -14,3 +14,9 @@ Java设计模式联系
 ```
 
 ## 设计模式种类
+
+### 创建型
+```shell
+1.工厂模式 Factory 
+  由子类决定创建的对象是哪种
+```
