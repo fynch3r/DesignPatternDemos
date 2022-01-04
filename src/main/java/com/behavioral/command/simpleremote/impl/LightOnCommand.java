@@ -6,7 +6,7 @@ import com.behavioral.command.simpleremote.entity.Light;
 /**
  * @program: DesignPattern
  * @description:
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-12-01 19:25
  **/
 

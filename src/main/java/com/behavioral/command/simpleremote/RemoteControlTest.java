@@ -5,13 +5,6 @@ import com.behavioral.command.simpleremote.entity.Light;
 import com.behavioral.command.simpleremote.impl.GarageDoorOpenCommand;
 import com.behavioral.command.simpleremote.impl.LightOnCommand;
 
-/**
- * @program: DesignPattern
- * @description:
- * @author: 0range
- * @create: 2021-12-01 19:46
- **/
-
 
 public class RemoteControlTest {
     public static void main(String[] args) {

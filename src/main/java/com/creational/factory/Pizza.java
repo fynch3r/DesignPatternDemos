@@ -5,7 +5,7 @@ import java.util.ArrayList;
 /**
  * @program: DesignPattern
  * @description:
- * @author: 0range
+ * @author: fynch3r
  * @create: 2021-12-01 13:06
  **/
 
@@ -47,7 +47,7 @@ public abstract class Pizza {
 
     @Override
     public String toString() {
-        StringBuffer display = new StringBuffer();
+        StringBuilder display = new StringBuilder();
         display.append("---- " + name + " ----\n");
         display.append(dough + "\n");
         display.append(sauce + "\n");
