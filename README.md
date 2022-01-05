@@ -1,6 +1,10 @@
 # DesignPatternDemos
 
-Java设计模式学习笔记。
+
+> 设计模式之于代码审计，就像耶路撒冷之于西方。 - r00t4dm
+
+Java设计模式梳理，记录学习过程中的优质demo；
+
 主要参考：
 - [HeadFirst设计模式](https://m.douban.com/book/subject/2243615/)
 - [Java设计模式](https://github.com/quanke/design-pattern-java)

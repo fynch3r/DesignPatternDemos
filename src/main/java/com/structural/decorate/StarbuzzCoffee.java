@@ -20,7 +20,5 @@ public class StarbuzzCoffee {
 
         //Beverage houseBlend = new HouseBlend();
         //houseBlend = new Soy(houseBlend);
-        //houseBlend = new (houseBlend);
-        //houseBlend = new Soy(houseBlend);
     }
 }

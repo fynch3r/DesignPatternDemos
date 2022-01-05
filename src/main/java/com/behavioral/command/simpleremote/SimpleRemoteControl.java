@@ -6,7 +6,6 @@ public class SimpleRemoteControl {
 
     public SimpleRemoteControl(){}
 
-
     public void setCommand(Command command){
         slot = command;
     }

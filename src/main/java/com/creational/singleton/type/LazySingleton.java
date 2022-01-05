@@ -2,7 +2,7 @@ package com.creational.singleton.type;
 
 /**
  * @program: DesignPattern
- * @description:
+ * @description: double-checking
  * @author: fynch3r
  * @create: 2022-01-04 13:04
  **/

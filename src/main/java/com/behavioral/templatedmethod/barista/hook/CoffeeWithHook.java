@@ -13,8 +13,7 @@ import java.io.InputStreamReader;
  **/
 
 
-public class CoffeeWithHook extends CaffeineBeverageWithHook
-{
+public class CoffeeWithHook extends CaffeineBeverageWithHook {
 
     @Override
     public void brew() {
@@ -45,22 +44,20 @@ public class CoffeeWithHook extends CaffeineBeverageWithHook
 
         BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
 
-        try{
+        try {
             answer = in.readLine();
 
-        }catch (Exception e){
+        } catch (Exception e) {
             System.err.println("IO error trying to read your answer");
         }
 
-        if(answer == null){
+        if (answer == null) {
             return "n";
         }
         return answer;
 
 
     }
-
-
 
 
 }
